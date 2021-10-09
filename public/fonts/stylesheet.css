@@ -1,0 +1,200 @@
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-SemiBold.woff2') format('woff2'),
+        url('CodeNext-Trial-SemiBold.woff') format('woff'),
+        url('CodeNext-Trial-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-Light.woff2') format('woff2'),
+        url('CodeNext-Trial-Light.woff') format('woff'),
+        url('CodeNext-Trial-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-SemiBold_1.woff2') format('woff2'),
+        url('CodeNext-Trial-SemiBold_1.woff') format('woff'),
+        url('CodeNext-Trial-SemiBold_1.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-Heavy.woff2') format('woff2'),
+        url('CodeNext-Trial-Heavy.woff') format('woff'),
+        url('CodeNext-Trial-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-Light_1.woff2') format('woff2'),
+        url('CodeNext-Trial-Light_1.woff') format('woff'),
+        url('CodeNext-Trial-Light_1.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-Regular.woff2') format('woff2'),
+        url('CodeNext-Trial-Regular.woff') format('woff'),
+        url('CodeNext-Trial-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-Regular_1.woff2') format('woff2'),
+        url('CodeNext-Trial-Regular_1.woff') format('woff'),
+        url('CodeNext-Trial-Regular_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-Heavy_1.woff2') format('woff2'),
+        url('CodeNext-Trial-Heavy_1.woff') format('woff'),
+        url('CodeNext-Trial-Heavy_1.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial Hairline';
+    src: url('CodeNext-Trial-Hairline.woff2') format('woff2'),
+        url('CodeNext-Trial-Hairline.woff') format('woff'),
+        url('CodeNext-Trial-Hairline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-Thin.woff2') format('woff2'),
+        url('CodeNext-Trial-Thin.woff') format('woff'),
+        url('CodeNext-Trial-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial Hairline';
+    src: url('CodeNext-Trial-Hairline_1.woff2') format('woff2'),
+        url('CodeNext-Trial-Hairline_1.woff') format('woff'),
+        url('CodeNext-Trial-Hairline_1.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-Black.woff2') format('woff2'),
+        url('CodeNext-Trial-Black.woff') format('woff'),
+        url('CodeNext-Trial-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-ExtraBold.woff2') format('woff2'),
+        url('CodeNext-Trial-ExtraBold.woff') format('woff'),
+        url('CodeNext-Trial-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-Bold.woff2') format('woff2'),
+        url('CodeNext-Trial-Bold.woff') format('woff'),
+        url('CodeNext-Trial-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial Book';
+    src: url('CodeNext-Trial-Book.woff2') format('woff2'),
+        url('CodeNext-Trial-Book.woff') format('woff'),
+        url('CodeNext-Trial-Book.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-Bold_1.woff2') format('woff2'),
+        url('CodeNext-Trial-Bold_1.woff') format('woff'),
+        url('CodeNext-Trial-Bold_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial Book';
+    src: url('CodeNext-Trial-Book_1.woff2') format('woff2'),
+        url('CodeNext-Trial-Book_1.woff') format('woff'),
+        url('CodeNext-Trial-Book_1.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-Thin_1.woff2') format('woff2'),
+        url('CodeNext-Trial-Thin_1.woff') format('woff'),
+        url('CodeNext-Trial-Thin_1.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-ExtraBold_1.woff2') format('woff2'),
+        url('CodeNext-Trial-ExtraBold_1.woff') format('woff'),
+        url('CodeNext-Trial-ExtraBold_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Next-Trial';
+    src: url('CodeNext-Trial-Black_1.woff2') format('woff2'),
+        url('CodeNext-Trial-Black_1.woff') format('woff'),
+        url('CodeNext-Trial-Black_1.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2A5BD7;}
+</style>
+<g>
+	<g>
+		<g>
+			<path class="st0" d="M120,472H72v-48h48V472z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st0" d="M184,472h-48v-48h48V472z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st0" d="M248,472h-48v-48h48V472z"/>
+		</g>
+	</g>
+	<g>
+		<path class="st0" d="M72,368h176v32H72V368z"/>
+	</g>
+	<g>
+		<path class="st0" d="M264,360h176v40H264V360z"/>
+	</g>
+	<g>
+		<path d="M376,56h48v48h16V40h-64V56z"/>
+		<path d="M424,328h-48v16h64v-64h-16V328z"/>
+		<path d="M136,328H88v-48H72v64h64V328z"/>
+		<path d="M88,56h48V40H72v64h16V56z"/>
+		<path d="M448,8H64C50.77,8,40,18.77,40,32v448c0,13.23,10.77,24,24,24h384c13.23,0,24-10.77,24-24V32C472,18.77,461.23,8,448,8z
+			 M456,480c0,4.41-3.59,8-8,8H64c-4.41,0-8-3.59-8-8V32c0-4.41,3.59-8,8-8h384c4.41,0,8,3.59,8,8V480z"/>
+		<path d="M408,72H104v240h304V72z M392,232h-64v64H184v-64h-64v-80h64V88h208V232z M168,88v48h-48V88H168z M120,248h48v48h-48V248z
+			 M344,296v-48h48v48H344z"/>
+		<circle cx="144" cy="112" r="8"/>
+		<circle cx="368" cy="272" r="8"/>
+		<circle cx="144" cy="272" r="8"/>
+		<path d="M232,152v-16h-16v-32h-16v48H232z"/>
+		<path d="M152,168h-16v48h48v-16h-32V168z"/>
+		<path d="M216,184v-16h-48v16h32v32h16v-16h48v64h-64v16h80v-16h32v-48h32v-16h-48v48h-16v-64H216z"/>
+		<path d="M232,216v16h-32v16h48v-32H232z"/>
+		<path d="M360,200h16v16h-16V200z"/>
+		<path d="M344,152h16v32h16v-48h-32V152z"/>
+		<path d="M328,120h48v-16h-64v48h16V120z"/>
+		<path d="M296,168h48v16h-48V168z"/>
+		<path d="M248,168h16v-64h-32v16h16V168z"/>
+		<path d="M280,136h16v16h-16V136z"/>
+		<path d="M280,104h16v16h-16V104z"/>
+		<path d="M72,360h176v16H72V360z"/>
+		<path d="M72,392h176v16H72V392z"/>
+		<path d="M264,360h16v16h-16V360z"/>
+		<path d="M296,360h144v16H296V360z"/>
+		<path d="M264,392h176v16H264V392z"/>
+	</g>
+</g>
+</svg>

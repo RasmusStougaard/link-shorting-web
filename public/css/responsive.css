@@ -1,0 +1,283 @@
+    @media (max-width:1200px) {
+    .container {
+        max-width: 95%;
+    }
+}
+
+@media (max-width:992px) {
+    .cut_navigation>ul li+li,
+    .login_signup li {
+        margin-left: 15px;
+    }
+    .cut_navigation>ul li a {
+        font-size: 14px;
+    }
+    .cutbanner_text h1 {
+        font-size: 40px;
+    }
+}
+
+@media (max-width:767px) {
+    .openenav span:first-child {
+        transform: rotate(45deg) translateX(10px);
+    }
+    .openenav span:nth-child(2) {
+        opacity: 0;
+    }
+    .openenav span:nth-child(3) {
+        transform: rotate(-45deg) translateX(10px);
+    }
+    .cut_navigation>ul li a::before {
+        background: #fff;
+    }
+    .toggle_bars span {
+        background: #000;
+        width: 30px;
+        height: 2px;
+        display: block;
+        margin-bottom: 5px;
+        display: block;
+        transition: all 0.4s;
+    }
+    .full_pricing h3,.why_cut_text h3{font-size: 18px;}
+    .price_cut,.shortner{
+
+    font-size: 17px;
+    
+
+    }
+    .pricing{
+
+            -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 30px;
+    padding: 0;
+    }
+   .pricing:last-child{margin-bottom: 0px;}
+    .premium .full_pricing{transform: scale(1);}
+    .cut_navigation {
+        position: fixed;
+        top: 0;
+        max-width: 380px;
+        width: 100%;
+        background: #2a5bd7;
+        right: 0;
+        display: flex;
+        height: 100%;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        transform: translateX(1000px);
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.5s;
+    }
+    .openenav .cut_navigation {
+        transform: translateX(0);
+        opacity: 1;
+        visibility: visible;
+    }
+    .cut_navigation li {
+        display: block;
+    }
+    .cut_navigation .grid-row {
+        display: block;
+    }
+    header .cut_navigation ul li {
+        margin: 0 0 15px 0;
+    }
+    .cut_navigation>ul li a {
+        color: #fff;
+        display: inline-block;
+    }
+    .openenav .toggle_bars {
+        position: relative;
+        z-index: 11;
+    }
+    .openenav span {
+        background: #fff;
+    }
+    .cutbanner_text h1 {
+        font-size: 25px;
+    }
+    .main_head {
+    text-align: center;
+}
+    .login_signup_forms {
+    padding: 100px 0 40px;
+}
+.singin_form{padding: 20px;}
+.register_new a {
+    font-size: 12px;
+    
+}
+
+
+    .whats_inside{padding-top: 15px;}
+    body * p {
+        font-size: 14px;
+    }
+    .shorten_button {
+        width: 30%;
+    }
+    .works_easier .grid-row,
+    .shoter_grid,
+    .whats_inside {
+        display: block;
+    }
+    .work_easier_image {
+        text-align: center;
+    }
+    .work_easier_image,
+    .work_easier_text,
+    .shoter_grids,
+    .accordian_content,
+    .faq_image,
+    .common_image,
+    .common_row,.why_cutcut .cut_main {
+        max-width: 100%;
+        padding: 0px;
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+    }
+    .cut_main {
+    margin-bottom: 10px;
+}
+    .link_shortners {
+        padding-bottom: 30px;
+    }
+    .common-top {
+        padding-top: 30px;
+    }
+    .common-bottom {
+        padding-bottom: 30px;
+    }
+    .shoter_grids:last-child .line_shorters_innner {
+        padding: 0;
+    }
+    .more_than_shorter h3,
+    .faq_cut_inner h2 {
+        font-size: 25px;
+        line-height: 1.3;
+    }
+    .cut_main_inner{padding: 20px 10px}
+    .more_than_shorter,
+    .news_letter_cut,
+    .easy_buy,.why_cutcut {
+        padding: 30px 0;
+    }
+    .work_easier_text {
+        text-align: center;
+    }
+    .footer_col {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+        margin-bottom: 15px;
+    }
+    .footer_col h3 {
+        margin-block-end: 10px;
+    }
+    .accordian_content h4,
+    .accordian_content p {
+        text-align: center;
+    }
+    .work_easier_text h3 {
+        font-size: 20px;
+    }
+    .line_shorters_innner {
+        padding: 30px 10px;
+    }
+    .banner_cut {
+        padding: 100px 0 30px;
+    }
+    .managment_main {
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 20px 0;
+    }
+    .manage_text h3 {
+        font-size: 16px;
+    }
+    .faq_cut {
+        padding-bottom: 30px;
+    }
+    .common_btn {
+        font-size: 15px;
+    }
+    .managments_grid {
+        justify-content: space-between;
+        margin-top: 10px;
+    }
+    .our_features {
+        padding: 30px 0;
+    }
+    .features_manage {
+        flex: 0 0 49%;
+        max-width: 49%;
+    }
+    .easy_image img {
+        max-width: 90%;
+        margin-top: 20px;
+    }
+    .managment_grid_col {
+        padding: 20px 0;
+    }
+    .managment_grid_col,
+    .managments_grid {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .managments_grid .manage_text {
+        text-align: center;
+        padding-left: 0px;
+    }
+    .works_easier.common-top {
+        padding-top: 0;
+    }
+    .subscriber_field {
+        display: block;
+    }
+    .subscriber_field input[type="submit"],
+    .subscriber_field input[type="text"] {
+        width: 100%;
+        border-radius: 5px;
+        height: 50px;
+    }
+    .shorten_button button,.shorten_input input{height: 50px;}
+    .subscriber_field input[type="submit"] {
+        margin-top: 10px;
+    }
+    .main_head h3,
+    .forms_head h3 {
+        font-size: 20px;
+    }
+    .transform_link  .easy_image img{margin-top: 0px;}
+    footer{padding: 30px 0;}
+    .copyright .grid-row{flex-direction: column;}
+    .teerms_condition{margin-top: 5px;}
+}
+
+@media (max-width: 567px) {
+    .easy_image img {
+        max-width: 100%;
+    }
+.resources_links,.logo_side{flex: 0 0 100%;}
+.resources_links {
+    margin-top: 20px;
+}
+.footer_col:nth-last-child(-n+2){
+    margin: 0;
+}
+.features_manage {
+    flex: 0 0 100%;
+    max-width: 100%;
+    justify-content: center;
+    padding: 0 15px;
+}
+.features_manage:nth-last-child(-n+2){margin: 0 0 10px;}
+}
